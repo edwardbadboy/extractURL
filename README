@@ -1,0 +1,8 @@
+Usage
+extractURL URL1[, URL2, ...]
+
+Example Run
+extractURL 'http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F5574702%2Fhow-to-print-to-stderr-in-python&ei=jk6HUMnXGMa2yAGGlIDgBQ&usg=AFQjCNHy6P8cYV7xNoF3SB9d4fKcYW2Gvg&sig2=Y45fHu_gMLb9MH6_uJLhsA'
+
+Example Result
+http://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python
